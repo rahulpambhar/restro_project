@@ -1,0 +1,23 @@
+.LogoImg {
+    height: 200px;
+
+}
+
+.nav-item:hover {
+    background-color: rgb(133, 52, 52);
+
+}
+
+a:hover {
+    color: black;
+
+}
+
+  a {
+      cursor: pointer;
+  }
+
+  .pagination {
+      justify-content: center;
+      flex-wrap: wrap;
+  }
